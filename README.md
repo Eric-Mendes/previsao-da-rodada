@@ -1,5 +1,5 @@
 # previsao-da-rodada
-Prevê os resultados da rodada seguinte do Campeonato Brasileiro de Futebol Masculino de forma ingênua.
+Previsão dos resultados da rodada seguinte do Campeonato Brasileiro de Futebol Masculino de forma ingênua.
 ## Introdução
 Este projeto foi feito com o único intuito de relembrar conceitos de probabilidade e estatística. <b>Não é recomendado para uso em apostas</b> ou em atividades que exijam que o resultado seja preciso.
 ## Dados
